@@ -1,0 +1,9 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "pak-chom-mcp-server",
+  "main": "src/index.ts",
+  "compatibility_date": "2026-11-25",
+  "observability": {
+    "enabled": true
+  }
+}
